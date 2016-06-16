@@ -1,0 +1,19 @@
+current directory: /Users/Yoshifumisouda/tpr20160616/vendor/bundle/ruby/2.3.0/gems/byebug-9.0.5/ext/byebug
+/Users/Yoshifumisouda/.rbenv/versions/2.3.1/bin/ruby -r ./siteconf20160616-46746-1aswm5f.rb extconf.rb
+creating Makefile
+
+current directory: /Users/Yoshifumisouda/tpr20160616/vendor/bundle/ruby/2.3.0/gems/byebug-9.0.5/ext/byebug
+make "DESTDIR=" clean
+
+current directory: /Users/Yoshifumisouda/tpr20160616/vendor/bundle/ruby/2.3.0/gems/byebug-9.0.5/ext/byebug
+make "DESTDIR="
+compiling breakpoint.c
+compiling byebug.c
+compiling context.c
+compiling locker.c
+compiling threads.c
+linking shared-object byebug/byebug.bundle
+
+current directory: /Users/Yoshifumisouda/tpr20160616/vendor/bundle/ruby/2.3.0/gems/byebug-9.0.5/ext/byebug
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 byebug.bundle ./.gem.20160616-46746-hm0o1y/byebug
